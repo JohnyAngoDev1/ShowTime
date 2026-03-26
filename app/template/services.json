@@ -1,0 +1,98 @@
+{
+    "cards_section_subtitle": "Nuestros Servicios",
+    "cards_section_title": "Experiencias Inolvidables",
+    "cards_section_description": "Ofrecemos una amplia gama de servicios diseñados para que cada detalle de su evento sea perfecto y memorable.",
+    "cards_item_price_prefix": "Consultar",
+    "services_items": [
+        {
+            "title": "Hora loca",
+            "description": "El momento más explosivo y divertido de tu fiesta con personajes y animación única.",
+            "icon": "material-symbols:celebration"
+        },
+        {
+            "title": "Activación de marca",
+            "description": "Conectamos tu marca con el público a través de experiencias creativas e inolvidables.",
+            "icon": "material-symbols:rocket-launch"
+        },
+        {
+            "title": "Bodas",
+            "description": "Hacemos realidad la boda de tus sueños con una producción impecable y mágica.",
+            "icon": "material-symbols:favorite"
+        },
+        {
+            "title": "15 años",
+            "description": "Una celebración espectacular para un momento único en la vida.",
+            "icon": "material-symbols:cake"
+        },
+        {
+            "title": "Eventos temáticos",
+            "description": "Creamos mundos enteros basados en la temática que elijas para tu evento.",
+            "icon": "material-symbols:theater-comedy"
+        },
+        {
+            "title": "Chivas",
+            "description": "Diversión garantizada con el mejor recorrido y animación en chivas tradicionales.",
+            "icon": "material-symbols:directions-bus"
+        },
+        {
+            "title": "Globos Aerostáticos",
+            "description": "Eleva tu evento a otro nivel con paseos y exhibiciones de globos aerostáticos.",
+            "icon": "material-symbols:airplanemode-active"
+        },
+        {
+            "title": "Booking Artistas",
+            "description": "Gestionamos la contratación de los mejores artistas nacionales e internacionales.",
+            "icon": "material-symbols:person-search"
+        },
+        {
+            "title": "Sonido",
+            "description": "Equipos de alta fidelidad para que cada nota se escuche con total claridad.",
+            "icon": "material-symbols:volume-up"
+        },
+        {
+            "title": "Iluminación",
+            "description": "Ambientes transformados por efectos visuales y luces de última generación.",
+            "icon": "material-symbols:lightbulb"
+        },
+        {
+            "title": "Conciertos",
+            "description": "Producción integral de conciertos masivos con los más altos estándares.",
+            "icon": "material-symbols:music-note"
+        },
+        {
+            "title": "Catering",
+            "description": "Gastronomía de primer nivel para deleitar a todos tus invitados.",
+            "icon": "material-symbols:restaurant"
+        },
+        {
+            "title": "Menaje para eventos",
+            "description": "Alquiler de todo lo necesario: mesas, sillas, cristalería y más.",
+            "icon": "material-symbols:table-restaurant"
+        },
+        {
+            "title": "Dj's",
+            "description": "Los mejores DJs para mantener la energía al máximo durante todo el evento.",
+            "icon": "material-symbols:album"
+        },
+        {
+            "title": "Ferias de Emprendimiento",
+            "description": "Organización y logística para ferias que impulsan el talento local.",
+            "icon": "material-symbols:storefront"
+        },
+        {
+            "title": "Gestión Cultural",
+            "description": "Promovemos el arte y la cultura a través de proyectos y eventos únicos.",
+            "icon": "material-symbols:museum"
+        },
+        {
+            "title": "Producción de Eventos",
+            "description": "Planificación y ejecución total de cualquier tipo de evento social o corporativo.",
+            "icon": "material-symbols:settings-suggest"
+        },
+        {
+            "title": "Obtención de permisos",
+            "description": "Nos encargamos de toda la burocracia para que tu evento sea legal y seguro.",
+            "icon": "material-symbols:description"
+        }
+    ]
+}
