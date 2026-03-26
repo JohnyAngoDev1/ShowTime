@@ -28,8 +28,11 @@ const { t } = useTemplate()
 
                     <div class="flex flex-col sm:flex-row items-center gap-5">
                         <UButton :label="t('landing_primary_button_text')"
+                            to="#crvcards"
                             class="w-full sm:w-auto justify-center rounded-2xl px-10 py-5 bg-primary text-black font-black text-xl shadow-2xl shadow-primary/20 hover:scale-105 transition-transform duration-300" />
                         <UButton :label="t('landing_secondary_button_text')" variant="outline"
+                            to="https://wa.me/593979224354?text=Hola,%20me%20gustaría%20obtener%20más%20información%20sobre%20sus%20servicios."
+                            target="_blank"
                             class="w-full sm:w-auto justify-center rounded-2xl px-10 py-5 text-white border-white/20 hover:bg-white/5 font-black text-xl transition-all duration-300" />
                     </div>
 
